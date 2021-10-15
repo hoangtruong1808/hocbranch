@@ -1,5 +1,3 @@
 Hello đây là nhánh gốc
 
-Hello MÌNH LÀ NGỌC
-
-MÌNH LÀ TRƯỞNG NHÓM
+Hello Mình là trường
